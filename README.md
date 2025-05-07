@@ -1,5 +1,3 @@
-# facial-recognition-and-transfer-learning
-
 # Image Recognition with Deep Learning
 
 This project explores two key areas in computer vision:
