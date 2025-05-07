@@ -43,9 +43,9 @@ This project explores two major applications of deep learning in computer vision
 
 ## 📁 Repo Structure
 
-facial-recognition-and-transfer-learning/
-├── Facial_Recognition.ipynb
-├── CNNs.ipynb
+facial-recognition-and-transfer-learning/  
+├── Facial_Recognition.ipynb  
+├── CNNs.ipynb  
 └── README.md
 
 ---
